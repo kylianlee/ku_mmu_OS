@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kylianlee/CLionProjects/ku_mmu_OS
+-- Configuring done
+CMake Error: Cannot determine link language for target "ku_mmu_OS".
+CMake Error: CMake can not determine linker language for target: ku_mmu_OS
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+Unable to determine product file path for target ku_mmu_OS. Running and debugging will be unavailable.
